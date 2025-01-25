@@ -2,7 +2,7 @@
 
 # Workshop 8 : Application Programming Interfaces (APIs)
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-8/
 
 ## Task
 [] Create a sketch that makes and API call to gather data from an external source. List of free-to-use APIs (which do not require authentication) : https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/ <br>
