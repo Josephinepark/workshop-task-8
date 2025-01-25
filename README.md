@@ -69,8 +69,23 @@ My sketch wasn't working so I have looked carefully from the beginning. The reas
 <img width="851" alt="image" src="https://github.com/user-attachments/assets/aba426cf-3a71-487b-ad9a-26d928524ddf" />
 <br>
 <img width="728" alt="image" src="https://github.com/user-attachments/assets/d324dfa3-9833-45ad-ba8c-5e38b2568390" />
+<br>
+<br>
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/c30c897a-2ad0-46fd-b486-fa387573d56b" />
+<br>
+<br>
 
+------------------------------------
 
+(Developing Night)
+<br>
+<img width="865" alt="image" src="https://github.com/user-attachments/assets/17ed94c6-5c4f-45c5-83f1-56f4eeff21e6" />
+
+------------------------------------
+
+(Developing Day)
+<Br>
+<img width="863" alt="image" src="https://github.com/user-attachments/assets/961f1c2a-3285-4784-8aa6-12a99ba1be2d" />
 
 
 ## codes
