@@ -99,3 +99,7 @@ My sketch wasn't working so I have looked carefully from the beginning. The reas
 ## Reference / other sources that helped me
 
 https://editor.p5js.org/re7l/sketches/rylwv-437
+<Br>
+<br>
+<Br>
+https://www.google.com/search?q=color+picker&sca_esv=117ddad5b64f1f05&ei=Q3yUZ7GyFIDWseMP5de5yAQ&ved=0ahUKEwjx3-mol5CLAxUAa2wGHeVrDkkQ4dUDCBA&uact=5&oq=color+picker&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNvbG9yIHBpY2tlcjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzINEAAYgAQYsAMYQxiKBTINEAAYgAQYsAMYQxiKBUi6nQRQAFgAcAN4AZABAJgBAKABAKoBALgBA8gBAJgCA6ACC5gDAIgGAZAGCpIHATOgBwA&sclient=gws-wiz-serp
